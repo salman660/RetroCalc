@@ -53,8 +53,8 @@ The Retro Calculator project is released under the [MIT License](https://opensou
 
 If you have any questions or need further assistance with the Retro Calculator project, you can reach out to us via the following channels:
 
-- Project Repository: [https://github.com/retro-calculator](https://github.com/retro-calculator)
-- Issue Tracker: [https://github.com/retro-calculator/issues](https://github.com/retro-calculator/issues)
-- Email: retrocalculator@example.com
+- Project Repository: [https://github.com/retro-calculator](https://github.com/salman660/RetroCalc)
+- Issue Tracker: [https://github.com/retro-calculator/issues](https://github.com/salman660/RetroCalc/issues)
+- Email: nkus660@gmail.com
 
 We appreciate your interest in contributing to the Retro Calculator project and look forward to your involvement! Together, let's build a simple yet stylish calculator with a touch of nostalgia.
